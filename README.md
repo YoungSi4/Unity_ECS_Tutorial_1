@@ -1,5 +1,8 @@
 # ECS-Strawman
 
+### notice : this is clone of Strawman for ECS study. I do not have any COPYRIGHTS  
+this is a just my personal notebook :)
+
 ![gif](https://github.com/keijiro/SimpleECS/assets/343936/e9bdc499-5acf-4c11-8407-b4254d215f67)
 
 **ECS-Strawman** is a small sample project for Unity ECS (Entity Component System).
